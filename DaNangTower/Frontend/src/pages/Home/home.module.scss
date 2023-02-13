@@ -1,0 +1,45 @@
+.my-next-icon,
+.my-prev-icon {
+    height: 70px;
+    background-color: black;
+    border-radius: 10px;
+    width: 40px;
+}
+.my-prev,
+.my-next {
+    height: fit-content;
+    width: fit-content;
+    margin: auto;
+}
+.my-prev {
+    margin-left: 3%;
+}
+.my-next {
+    margin-right: 3%;
+}
+.my-carousel-caption {
+    background-color: rgba(0, 0, 0, 0.3);
+    width: fit-content;
+    margin: auto;
+    border-radius: 10px;
+    padding: 1% 2%;
+}
+
+.my-img {
+    border-radius: 10px;
+    background-size: contain;
+}
+
+.my-carousel {
+    margin: 10px 10%;
+}
+
+.imageHome {
+    border-radius: 3%;
+}
+
+.my-list .my-list-group-item {
+    line-height: 40px;
+    color: green;
+    font-size: large;
+}

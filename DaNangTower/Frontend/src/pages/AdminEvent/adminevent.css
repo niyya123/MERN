@@ -1,0 +1,143 @@
+.body{
+    margin: 0;
+    width:1165px;
+}
+
+.title{
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #4d5b7e;
+}
+.icon_trash{
+    font-size: 30px;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    margin-right: 5px;
+}
+
+.icon_medium{
+    font-size: 20px;
+}
+
+.icon_small{
+    font-size: 15px;
+}
+
+.font_big{
+    font-size: 30px;
+}
+
+.font_medium{
+    font-size: 20px;
+}
+
+.font_small{
+    font-size: 15px;
+}
+
+.delete_selected{
+    margin-top: 20px;
+    background: rgb(18,190,46);
+    background: linear-gradient(90deg, rgba(18,190,46,1) 0%, rgba(12,255,0,1) 100%);
+    color: #ffeec2;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    display : flex;
+    align-items: center;
+    justify-content : center;
+    border: none;
+    margin: 10 auto;
+    padding: 5px;
+}
+
+.delete_selected p{
+    margin-top: 3px;
+}
+
+.table_config{
+    text-align: center;
+    border: 3px solid;
+}
+
+.azure_bg{
+    background-color: azure;
+}
+
+.pagination{
+    border-radius: 10px;
+    background-color:aquamarine;
+    width: 20%;
+    display: flex;
+    align-items : center;
+    justify-content : center;
+    margin: 10 auto;
+    color: white;
+    background-color: white;
+    padding: 5px;
+}
+
+.page_tool{
+    width: 30%;
+    margin: auto;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 5px;
+    background: rgb(82,18,190);
+    background: linear-gradient(90deg, rgba(82,18,190,1) 0%, rgba(112,0,255,1) 100%);
+}
+
+.page_input{
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.form{
+    width: 50%;
+    margin: 10 auto;
+    background: rgb(134,34,195);
+    background: linear-gradient(0deg, rgba(134,34,195,1) 0%, rgba(210,45,253,0.8371499112340248) 100%);
+    border-radius: 10px;
+}
+
+.form_border{
+    border-radius: 5px;
+    margin:40 auto 40 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 90%;
+    height: 90%;
+    background-color: #341261;
+    text-align: center;
+}
+
+.form_title{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: #6d5191;
+    margin-top: -20px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding: 5px;
+}
+
+.form_input{
+    margin: auto;
+    width: 50%;
+}
+
+.alert_text{
+    color: #c4182c
+}
+
+.add_button{
+    margin-right: 20px;
+}
+
+
+

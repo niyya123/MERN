@@ -1,0 +1,19 @@
+.input {
+  width: 100%;
+  border: 1px solid #dddfe2;
+  outline-color: var(--blue-color);
+  font-size: 17px;
+}
+.input + .input {
+  margin-top: 12px;
+}
+
+.input.large {
+  border-radius: 8px;
+  padding: 14px 16px;
+}
+
+.input.small {
+  padding: 9px 16px;
+  border-radius: 4px;
+}
