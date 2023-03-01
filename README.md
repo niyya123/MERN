@@ -11,4 +11,6 @@ Secondly, in terminal, cd to Frontend and type : npm start, the project'll run
 Make sure to login with this account to access Admin : 19521911@gm.uit.edu.vn        123456
 Please don't ruin the project with bad Admin using.
 
-Make sure to npm i nodemon react-scripts
+Make sure to npm i nodemon react-scripts.
+
+Here is the link to the demo : https://uithcm.sharepoint.com/:v:/s/Nhm3Hthngthngtinal3chiu/EXTC_dYjNNREjoP575S2-GgBkmth99mrt17IIOSpOGgb4A?e=TqmS1B
